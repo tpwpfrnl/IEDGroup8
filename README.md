@@ -18,4 +18,7 @@ Be sure to turn on the camera during the Zoom conference.
 It can only be missed once when we all decide to get together.
 As four people gather, the time to meet is limited, so don't spend a maximum of 10 hours per person a week.
 
+
+
+
 Video: https://www.youtube.com/watch?v=J2z2Bi3SGRs&t=6010s
