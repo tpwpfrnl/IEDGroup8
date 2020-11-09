@@ -1,6 +1,6 @@
 # IEDGroup8
 
-Team Charter
+#Team Charter
 
 Goals
 Successful completion of this semester project.
@@ -18,3 +18,4 @@ Be sure to turn on the camera during the Zoom conference.
 Resource limits
 It can only be missed once when we all decide to get together.
 As four people gather, the time to meet is limited, so don't spend a maximum of 10 hours per person a week.
+
